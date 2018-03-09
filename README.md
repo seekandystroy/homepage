@@ -1,3 +1,5 @@
 # My Website
 
-My personal website, created using the [Creative](http://startbootstrap.com/template-overviews/creative/) Bootstrap theme.
+My personal website, created using only HTML5.
+
+As a backend engineer, I'm not very good with frontend technologies, so rather than faking it, I rather just KISS.
